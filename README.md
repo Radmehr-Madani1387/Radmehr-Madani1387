@@ -15,7 +15,7 @@
 
 ## راه‌های ارتباطی  
 - **ایمیل:** radmehr.madani1387@gmail.com  
-- **لینکدین:** (لینک اضافه شود)  
+- **لینکدین:** (https://www.linkedin.com/in/radmehr-madani/)  
 
 ---
 
@@ -36,7 +36,7 @@ I'm passionate about learning and creating innovative tech solutions. I started 
 
 ## Contact  
 - **Email:** radmehr.madani1387@gmail.com  
-- **LinkedIn:** (Add link)  
+- **LinkedIn:** (https://www.linkedin.com/in/radmehr-madani/)  
 
 ---
 
